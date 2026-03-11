@@ -1,5 +1,35 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1f0f,100:0a1628&height=180&section=header&text=Welcome%20to%20Harsh%27s%20Github&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=%3C%20/%20%3E&descAlignY=62&descSize=20&descColor=3fb950&animation=twinkling" width="100%"/>
+
+<svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0d1f12"/>
+      <stop offset="100%" style="stop-color:#0a1628"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- background -->
+  <rect width="860" height="160" fill="url(#bg)" rx="10"/>
+  <!-- mountain silhouettes -->
+  <polygon points="0,160 120,60 200,100 300,30 400,80 500,20 600,70 700,25 800,65 860,40 860,160" fill="#0a1a0d" opacity="0.9"/>
+  <polygon points="0,160 80,90 180,120 280,55 380,95 480,45 580,85 680,50 780,80 860,55 860,160" fill="#0d1f10" opacity="0.6"/>
+  <!-- border bottom -->
+  <line x1="0" y1="159" x2="860" y2="159" stroke="#21262d" stroke-width="1"/>
+  <!-- title -->
+  <text x="430" y="72" text-anchor="middle" font-family="'Courier New', monospace" font-size="26" font-weight="700" fill="#ffffff" filter="url(#glow)">Welcome to Harsh's Github</text>
+  <!-- subtitle -->
+  <text x="430" y="108" text-anchor="middle" font-family="'Courier New', monospace" font-size="20" font-weight="400" fill="#3fb950" filter="url(#glow)">&lt; / &gt;</text>
+  <!-- decorative dots -->
+  <circle cx="30" cy="30" r="3" fill="#3fb950" opacity="0.5"/>
+  <circle cx="50" cy="20" r="2" fill="#3fb950" opacity="0.3"/>
+  <circle cx="820" cy="30" r="3" fill="#3fb950" opacity="0.5"/>
+  <circle cx="840" cy="18" r="2" fill="#3fb950" opacity="0.3"/>
+</svg>
+
 </div>
 
 <div align="center">
@@ -7,7 +37,7 @@
 [![LINKEDIN](https://img.shields.io/badge/▸_LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=3fb950&labelColor=0d1117)](https://www.linkedin.com/in/harsh-wardhan-singh-cse/)
 [![PORTFOLIO](https://img.shields.io/badge/▸_PORTFOLIO-0d1117?style=flat-square&logo=vercel&logoColor=3fb950&labelColor=0d1117)](https://harshwardhanportfolio.vercel.app/)
 [![GITHUB](https://img.shields.io/badge/▸_GITHUB-0d1117?style=flat-square&logo=github&logoColor=3fb950&labelColor=0d1117)](https://github.com/harshwardhan1507)
-[![SRM](https://img.shields.io/badge/▸_SRM_UNIVERSITY-0d1117?style=flat-square&logo=academia&logoColor=3fb950&labelColor=0d1117)](#)
+
 
 </div>
 
@@ -50,34 +80,25 @@ Now I'm working on leveling up my skills in **React**, **Node.js**, and full-sta
 
 <div align="center">
 
-<table>
-<tr>
-<td width="45%">
+<!--
+  Using github-profile-summary-cards — separate backend from github-readme-stats,
+  much more reliable and not rate-limited like the public vercel deployment.
+  Docs: https://github.com/vn7n24fzkq/github-profile-summary-cards
+-->
 
-**Harsh's GitHub Stats**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshwardhan1507&theme=github_dark" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshwardhan1507&theme=github_dark" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshwardhan1507&theme=github_dark" height="165"/>
 
-| | |
-|---|---|
-| ⭐ Total Stars Earned | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/harshwardhan1507&query=$.public_repos&label=&color=0d1117&style=flat-square&logo=star&logoColor=3fb950) |
-| 📝 Total Commits (2025) | ![](https://img.shields.io/github/commit-activity/y/harshwardhan1507/12-days-12-projects?label=&color=0d1117&style=flat-square&logoColor=3fb950) |
-| 🍴 Total Forks | — |
-| 📋 Total Issues | — |
-| 🤝 Contributed (last year) | — |
+<br/><br/>
 
-</td>
-<td width="55%">
 
-<img src="https://streak-stats.demolab.com?user=harshwardhan1507&theme=github-dark&background=0d1117&border=21262d&stroke=3fb950&ring=3fb950&fire=ff6b35&currStreakNum=ffffff&sideNums=e6edf3&currStreakLabel=3fb950&sideLabels=3fb950&dates=7d8590" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshwardhan1507&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" height="155"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshwardhan1507&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=3fb950&text_color=c9d1d9&hide_border=false" height="155"/>
+<img src="https://streak-stats.demolab.com?user=harshwardhan1507&theme=github-dark&background=0d1117&border=21262d&stroke=3fb950&ring=3fb950&fire=ff6b35&currStreakNum=ffffff&sideNums=e6edf3&currStreakLabel=3fb950&sideLabels=3fb950&dates=7d8590" width="480"/>
 
 </div>
 
@@ -110,8 +131,6 @@ Now I'm working on leveling up my skills in **React**, **Node.js**, and full-sta
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d1f0f,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
 
 ![](https://komarev.com/ghpvc/?username=harshwardhan1507&color=3fb950&style=flat-square&label=PROFILE+VIEWS)
 
