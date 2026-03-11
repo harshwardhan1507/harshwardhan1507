@@ -1,112 +1,118 @@
-<h1 align="center">Hey there, I'm Harsh Wardhan 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1f0f,100:0a1628&height=180&section=header&text=Welcome%20to%20Harsh%27s%20Github&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=%3C%20/%20%3E&descAlignY=62&descSize=20&descColor=3fb950&animation=twinkling" width="100%"/>
+</div>
 
-<p align="center">
-  <em>CS undergrad · Frontend Developer · Problem Solver · Lifelong Learner</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://harshwardhanportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/harsh-wardhan-singh-cse/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/harshwardhan1507" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![LINKEDIN](https://img.shields.io/badge/▸_LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=3fb950&labelColor=0d1117)](https://www.linkedin.com/in/harsh-wardhan-singh-cse/)
+[![PORTFOLIO](https://img.shields.io/badge/▸_PORTFOLIO-0d1117?style=flat-square&logo=vercel&logoColor=3fb950&labelColor=0d1117)](https://harshwardhanportfolio.vercel.app/)
+[![GITHUB](https://img.shields.io/badge/▸_GITHUB-0d1117?style=flat-square&logo=github&logoColor=3fb950&labelColor=0d1117)](https://github.com/harshwardhan1507)
+[![SRM](https://img.shields.io/badge/▸_SRM_UNIVERSITY-0d1117?style=flat-square&logo=academia&logoColor=3fb950&labelColor=0d1117)](#)
+
+</div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🤖 About me
 
-- 🎓 Currently pursuing **B.Tech in Computer Science**
-- 💡 Passionate about **Web Development**, **DSA**, and building real-world projects
-- 🚀 Completed a **12-day coding challenge** — one full project every day
-- 🌱 Always learning: currently exploring **React**, **TypeScript**, and modern frontend
-- ⚡ I believe in **learning by building** — theory only makes sense once I code it
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
+
+Hello! I'm **Harsh Wardhan**, a Computer Science student at SRM University.
+I enjoy building things for the web, solving problems, and shipping projects fast.
+Now I'm working on leveling up my skills in **React**, **Node.js**, and full-stack development.
+
+&nbsp;&nbsp; 🎓 &nbsp;Studying at **SRM University** — B.Tech Computer Science<br/>
+&nbsp;&nbsp; 🚀 &nbsp;Completed a **12-day coding challenge** — one full project every day<br/>
+&nbsp;&nbsp; ⚡ &nbsp;Currently learning **React + Node.js / Express**<br/>
+&nbsp;&nbsp; ♟️ &nbsp;Chess player — it's basically just debugging life
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
-**Languages**
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=f89820)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+---
 
-**Frontend**
+## 📊 Statistics
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<div align="center">
 
-**Tools & Platforms**
+<table>
+<tr>
+<td width="45%">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Harsh's GitHub Stats**
+
+| | |
+|---|---|
+| ⭐ Total Stars Earned | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/harshwardhan1507&query=$.public_repos&label=&color=0d1117&style=flat-square&logo=star&logoColor=3fb950) |
+| 📝 Total Commits (2025) | ![](https://img.shields.io/github/commit-activity/y/harshwardhan1507/12-days-12-projects?label=&color=0d1117&style=flat-square&logoColor=3fb950) |
+| 🍴 Total Forks | — |
+| 📋 Total Issues | — |
+| 🤝 Contributed (last year) | — |
+
+</td>
+<td width="55%">
+
+<img src="https://streak-stats.demolab.com?user=harshwardhan1507&theme=github-dark&background=0d1117&border=21262d&stroke=3fb950&ring=3fb950&fire=ff6b35&currStreakNum=ffffff&sideNums=e6edf3&currStreakLabel=3fb950&sideLabels=3fb950&dates=7d8590" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshwardhan1507&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshwardhan1507&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=3fb950&text_color=c9d1d9&hide_border=false" height="155"/>
+
+</div>
+
+---
+
+## 📈 Harsh's Contribution Graph
+
+<div align="center">
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshwardhan1507&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=1a4226&border_color=21262d&title_color=3fb950&hide_border=false&custom_title=Harsh%27s%20Contribution%20Graph)](https://github.com/harshwardhan1507)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**12 Days 12 Projects**](https://github.com/harshwardhan1507/12-days-12-projects) | A personal challenge — shipped one complete project every day for 12 days straight | HTML, CSS, JS |
-| [**Web Development Collection**](https://github.com/harshwardhan1507/web-Development) | Structured practice projects while mastering core frontend concepts | HTML, CSS, JS |
-| [**SRM CGPA Calculator**](https://github.com/harshwardhan1507/SRM-cgpa-calculator) | A handy tool for SRM students to calculate CGPA quickly | CSS, JS |
-| [**Portfolio**](https://github.com/harshwardhan1507/portfolio) | My personal portfolio — deployed on Vercel | TypeScript |
+<div align="center">
+
+[![12-days-12-projects](https://github-readme-stats.vercel.app/api/pin/?username=harshwardhan1507&repo=12-days-12-projects&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=3fb950&text_color=7d8590)](https://github.com/harshwardhan1507/12-days-12-projects)
+&nbsp;
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=harshwardhan1507&repo=portfolio&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=3fb950&text_color=7d8590)](https://github.com/harshwardhan1507/portfolio)
+
+[![web-Development](https://github-readme-stats.vercel.app/api/pin/?username=harshwardhan1507&repo=web-Development&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=3fb950&text_color=7d8590)](https://github.com/harshwardhan1507/web-Development)
+&nbsp;
+[![SRM-cgpa-calculator](https://github-readme-stats.vercel.app/api/pin/?username=harshwardhan1507&repo=SRM-cgpa-calculator&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=3fb950&text_color=7d8590)](https://github.com/harshwardhan1507/SRM-cgpa-calculator)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshwardhan1507&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshwardhan1507&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d1f0f,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshwardhan1507&theme=tokyonight&hide_border=true" />
-</p>
+![](https://komarev.com/ghpvc/?username=harshwardhan1507&color=3fb950&style=flat-square&label=PROFILE+VIEWS)
 
----
-
-## 🎯 2026 Goals
-
-- [ ] Build and launch a full-stack web app
-- [ ] Contribute to open source
-- [ ] Master React + backend (Node.js / Express)
-- [ ] Solve 200+ DSA problems
-- [ ] Land my first freelance project
-
----
-
-## 💬 Let's Connect
-
-If you're a fellow developer, recruiter, or just someone who likes to talk tech — feel free to reach out!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harsh-wardhan-singh-cse/">
-    <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://harshwardhanportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Check%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshwardhan1507&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center"><em>"First, solve the problem. Then, write the code." – John Johnson</em></p>
+</div>
