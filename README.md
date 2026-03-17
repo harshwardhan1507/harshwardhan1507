@@ -1,137 +1,255 @@
 <div align="center">
 
-<svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#0d1f12"/>
-      <stop offset="100%" style="stop-color:#0a1628"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <!-- background -->
-  <rect width="860" height="160" fill="url(#bg)" rx="10"/>
-  <!-- mountain silhouettes -->
-  <polygon points="0,160 120,60 200,100 300,30 400,80 500,20 600,70 700,25 800,65 860,40 860,160" fill="#0a1a0d" opacity="0.9"/>
-  <polygon points="0,160 80,90 180,120 280,55 380,95 480,45 580,85 680,50 780,80 860,55 860,160" fill="#0d1f10" opacity="0.6"/>
-  <!-- border bottom -->
-  <line x1="0" y1="159" x2="860" y2="159" stroke="#21262d" stroke-width="1"/>
-  <!-- title -->
-  <text x="430" y="72" text-anchor="middle" font-family="'Courier New', monospace" font-size="26" font-weight="700" fill="#ffffff" filter="url(#glow)">Welcome to Harsh's Github</text>
-  <!-- subtitle -->
-  <text x="430" y="108" text-anchor="middle" font-family="'Courier New', monospace" font-size="20" font-weight="400" fill="#3fb950" filter="url(#glow)">&lt; / &gt;</text>
-  <!-- decorative dots -->
-  <circle cx="30" cy="30" r="3" fill="#3fb950" opacity="0.5"/>
-  <circle cx="50" cy="20" r="2" fill="#3fb950" opacity="0.3"/>
-  <circle cx="820" cy="30" r="3" fill="#3fb950" opacity="0.5"/>
-  <circle cx="840" cy="18" r="2" fill="#3fb950" opacity="0.3"/>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FBE&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-</div>
-
-<div align="center">
-
-[![LINKEDIN](https://img.shields.io/badge/▸_LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=3fb950&labelColor=0d1117)](https://www.linkedin.com/in/harsh-wardhan-singh-cse/)
-[![PORTFOLIO](https://img.shields.io/badge/▸_PORTFOLIO-0d1117?style=flat-square&logo=vercel&logoColor=3fb950&labelColor=0d1117)](https://harshwardhanportfolio.vercel.app/)
-[![GITHUB](https://img.shields.io/badge/▸_GITHUB-0d1117?style=flat-square&logo=github&logoColor=3fb950&labelColor=0d1117)](https://github.com/harshwardhan1507)
-
-
-</div>
-
----
-
-## 🤖 About me
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
-
-Hello! I'm **Harsh Wardhan**, a Computer Science student at SRM University.
-I enjoy building things for the web, solving problems, and shipping projects fast.
-Now I'm working on leveling up my skills in **React**, **Node.js**, and full-stack development.
-
-&nbsp;&nbsp; 🎓 &nbsp;Studying at **SRM University** — B.Tech Computer Science<br/>
-&nbsp;&nbsp; 🚀 &nbsp;Completed a **12-day coding challenge** — one full project every day<br/>
-&nbsp;&nbsp; ⚡ &nbsp;Currently learning **React + Node.js / Express**<br/>
-&nbsp;&nbsp; ♟️ &nbsp;Chess player — it's basically just debugging life
-
----
-
-## 🛠️ Technologies
-
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=f89820)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)
-
----
-
-## 📊 Statistics
-
-<div align="center">
-
-<!--
-  Using github-profile-summary-cards — separate backend from github-readme-stats,
-  much more reliable and not rate-limited like the public vercel deployment.
-  Docs: https://github.com/vn7n24fzkq/github-profile-summary-cards
--->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshwardhan1507&theme=github_dark" height="165"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshwardhan1507&theme=github_dark" height="165"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshwardhan1507&theme=github_dark" height="165"/>
-
-<br/><br/>
-
-
+<!-- Typing SVG Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Harsh+Wardhan+%F0%9F%91%8B;Full-Stack+%26+AI+Developer+%E2%9A%A1;Hackathon+Builder+%C2%B7+Real+Shipper+%F0%9F%9A%80;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=harshwardhan1507&theme=github-dark&background=0d1117&border=21262d&stroke=3fb950&ring=3fb950&fire=ff6b35&currStreakNum=ffffff&sideNums=e6edf3&currStreakLabel=3fb950&sideLabels=3fb950&dates=7d8590" width="480"/>
+### `< Full-Stack Developer · AI Systems Builder · 1x Hackathon Finisher />`
 
-</div>
+<br/>
 
----
-
-## 📈 Harsh's Contribution Graph
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshwardhan1507&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=1a4226&border_color=21262d&title_color=3fb950&hide_border=false&custom_title=Harsh%27s%20Contribution%20Graph)](https://github.com/harshwardhan1507)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![12-days-12-projects](https://github-readme-stats.vercel.app/api/pin/?username=harshwardhan1507&repo=12-days-12-projects&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=3fb950&text_color=7d8590)](https://github.com/harshwardhan1507/12-days-12-projects)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D9FF?style=for-the-badge)](https://harshwardhanportfolio.vercel.app/)
 &nbsp;
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=harshwardhan1507&repo=portfolio&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=3fb950&text_color=7d8590)](https://github.com/harshwardhan1507/portfolio)
-
-[![web-Development](https://github-readme-stats.vercel.app/api/pin/?username=harshwardhan1507&repo=web-Development&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=3fb950&text_color=7d8590)](https://github.com/harshwardhan1507/web-Development)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-wardhan-singh-cse)
 &nbsp;
-[![SRM-cgpa-calculator](https://github-readme-stats.vercel.app/api/pin/?username=harshwardhan1507&repo=SRM-cgpa-calculator&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=3fb950&text_color=7d8590)](https://github.com/harshwardhan1507/SRM-cgpa-calculator)
+[![Email](https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshwardhansingh1507@gmail.com)
 
 </div>
 
 ---
 
+## 🧠 Who Am I?
+
+```ts
+const harsh: Developer = {
+  name        : "Harsh Wardhan",
+  alias       : "haruto",
+  education   : "B.Tech Computer Science — SRM University (1st Year)",
+  location    : "India 🇮🇳",
+
+  currentlyBuilding : "MemoryOS — an AI-powered personal second brain",
+  learningRightNow  : ["React", "DSA in Java", "Backend Systems", "AI Integration"],
+  careerGoal        : "Land a dev internship before my 2nd year ends",
+
+  openTo      : ["Internships 💼", "Freelance 🌐", "Collabs 🤝", "Anything Interesting ✨"],
+  funFact     : "Shipped a full AI app with auth + vector DB in just 36 hours ⚡",
+  philosophy  : "Build real things. Not tutorial clones.",
+};
+```
+
+> *I don't just study frameworks — I build with them. Every project here is something I made from scratch, deployed, and would proudly show to a recruiter.*
+
+---
+
+## ⚡ Tech Stack
+
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=harshwardhan1507&color=3fb950&style=flat-square&label=PROFILE+VIEWS)
+**Frontend — What users see**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Databases — What keeps it alive**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Languages — What I think in**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Tools — What keeps me sane**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Things I've Shipped
+
+> These aren't side quests. These are real products, live on the internet, used by real people.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 MemoryOS
+**36-hour hackathon build · Full-stack AI app**
+
+An AI-powered personal second brain that captures, categorizes, and resurfaces your memories across **7 semantic dimensions**. Features complete auth, vector database integration, and a clean real-time UI.
+
+`React` `TypeScript` `Supabase` `Firebase Auth` `Tailwind`
+
+🔗 [Live Demo](https://verge-eosin.vercel.app/) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/harshwardhan1507/verge)
+
+</td>
+<td width="50%">
+
+### 🎓 SRM CGPA Calculator
+**Built for my own college · Used by peers**
+
+A credit-weighted GPA computation tool tailored to SRM University's grading system. Handles semester GPA + cumulative CGPA with real-time calculation and Firebase-backed persistence.
+
+`JavaScript` `Firebase` `HTML` `CSS`
+
+🔗 [Live Demo](https://srm-cgpa-calculator-by-haruto.vercel.app/) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/harshwardhan1507/SRM-cgpa-calculator)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⏱ FocusX
+**Glassmorphism Pomodoro Timer**
+
+A beautifully designed focus timer with dynamic backgrounds, adaptive text contrast, and smooth state transitions. A productivity tool that actually feels good to use.
+
+`JavaScript` `HTML` `CSS`
+
+🔗 [Live Demo](https://focusxbyharuto.netlify.app/) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/harshwardhan1507/12-days-12-projects/tree/master/focusX)
+
+</td>
+<td width="50%">
+
+### 📅 12 Days · 12 Projects
+**A personal discipline challenge**
+
+One complete, deployed project every single day for 12 days — using only HTML, CSS, and vanilla JavaScript. No frameworks, no shortcuts. Pure fundamentals, pure consistency.
+
+`JavaScript` `HTML` `CSS`
+
+📂 [Source Code](https://github.com/harshwardhan1507/12-days-12-projects)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshwardhan1507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshwardhan1507&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harshwardhan1507&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" width="60%"/>
+
+</div>
+
+---
+
+## 📈 What I'm Grinding Right Now
+
+```
+React / Next.js       ████████████░░░░   75%  →  Building production apps
+DSA in Java           ████████░░░░░░░░   50%  →  Cracking placement prep
+Backend (Node.js)     ██████░░░░░░░░░░   40%  →  REST APIs & auth flows
+System Design         ████░░░░░░░░░░░░   25%  →  Early but intentional
+Spring Boot           ██░░░░░░░░░░░░░░   15%  →  Queued for campus placements
+```
+
+---
+
+## 🏆 Highlights at a Glance
+
+<div align="center">
+
+| 🏅 | Achievement | Details |
+|---|---|---|
+| ⚡ | **Hackathon Builder** | Shipped MemoryOS — full-stack AI app with auth + DB — in **36 hours** |
+| 🎓 | **Academic Record** | B.Tech CS @ SRM University · **90%+ in both 10th & 12th Board exams** |
+| 🌐 | **Live Projects** | **10+ real projects** deployed and accessible on the internet |
+| 📅 | **Consistency** |  Ongoing **12-day daily build challenge** — one project per day |
+| 💼 | **Next Mission** | Land a **dev internship before 2nd year** wraps up |
+| 💭 | **Daily Status** | Vibe coding. Vibe learning. Shipping. Repeating. |
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshwardhan1507&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=7B2FBE&point=00D9FF&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🤝 Followers & Community
+
+<div align="center">
+
+*Every follow means someone found something worth watching — and that keeps me going. 🙏*
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/harshwardhan1507?label=GitHub+Followers&style=for-the-badge&logo=github&color=181717&labelColor=0D1117)](https://github.com/harshwardhan1507?tab=followers)
+&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/harshwardhan1507?affiliations=OWNER&label=Total+Stars+Earned&style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117)](https://github.com/harshwardhan1507?tab=repositories)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=harshwardhan1507&label=Profile+Views&color=00D9FF&style=for-the-badge&abbreviated=true)](https://github.com/harshwardhan1507)
+
+<br/>
+
+[![Follow Me](https://img.shields.io/badge/👀_Follow_My_Journey-Click_Here-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshwardhan1507?tab=followers)
+
+<br/>
+
+> If something I built helped you, inspired you, or just looked cool —
+> a **⭐ on a repo** or a **follow** goes a long way.
+> It tells me I'm building something worth building.
+
+</div>
+
+---
+
+## 📬 Let's Build Something Together
+
+<div align="center">
+
+> I'm actively looking for **internships**, **freelance projects**, and **interesting collaborations.**
+> If you're building something cool and need a developer who actually ships — reach out.
+> I reply within 24 hours. No gatekeeping, no ghosting. Just a real conversation.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://harshwardhanportfolio.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-wardhan-singh-cse)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshwardhansingh1507@gmail.com)
+
+<br/>
+<br/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00D9FF&height=110&section=footer" width="100%"/>
+
+<sub>© 2026 Harsh Wardhan &nbsp;·&nbsp; Crafted with Next.js &nbsp;·&nbsp; Deployed on Vercel &nbsp;·&nbsp; Fueled by ∞ cups of coffee ☕</sub>
 
 </div>
