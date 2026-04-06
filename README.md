@@ -84,64 +84,72 @@ const harsh: Developer = {
 ---
 
 ## 🚀 Things I've Shipped
-
 > These aren't side quests. These are real products, live on the internet, used by real people.
 
 <table>
 <tr>
 <td width="50%">
 
+### 🏛️ Vertex
+**Campus Operating System · In Development**
+Not just an event app — a full campus operating system built for Indian colleges. Handles event discovery, QR attendance, auto-generated certificates, OD letters, document verification, and a real-time participation score. 10 feature modules. Production architecture. Built to replace WhatsApp groups forever.
+
+`Next.js` `TypeScript` `Supabase` `Firebase` `Tailwind`
+
+📂 [Source Code](https://github.com/harshwardhan1507/Vertex)
+
+</td>
+<td width="50%">
+
 ### 🧠 MemoryOS
 **36-hour hackathon build · Full-stack AI app**
-
-An AI-powered personal second brain that captures, categorizes, and resurfaces your memories across **7 semantic dimensions**. Features complete auth, vector database integration, and a clean real-time UI.
+An AI-powered personal second brain that captures, categorizes, and resurfaces your memories across 7 semantic dimensions. Built end-to-end in 36 hours — complete auth, vector database integration, real-time UI, and a live custom domain.
 
 `React` `TypeScript` `Supabase` `Firebase Auth` `Tailwind`
 
 🔗 [Live Demo](https://verge-eosin.vercel.app/) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/harshwardhan1507/verge)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎓 SRM CGPA Calculator
-**Built for my own college · Used by peers**
-
-A credit-weighted GPA computation tool tailored to SRM University's grading system. Handles semester GPA + cumulative CGPA with real-time calculation and Firebase-backed persistence.
+**Built for my college · Used by my peers**
+A credit-weighted GPA tool built specifically for SRM University's grading system. Handles semester GPA, cumulative CGPA, and real-time calculation — with Firebase-backed persistence. Solved a real problem, shipped it, people use it.
 
 `JavaScript` `Firebase` `HTML` `CSS`
 
 🔗 [Live Demo](https://srm-cgpa-calculator-by-haruto.vercel.app/) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/harshwardhan1507/SRM-cgpa-calculator)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### ⏱ FocusX
 **Glassmorphism Pomodoro Timer**
-
-A beautifully designed focus timer with dynamic backgrounds, adaptive text contrast, and smooth state transitions. A productivity tool that actually feels good to use.
+A focus timer that actually feels good to use. Dynamic backgrounds, adaptive text contrast, smooth state transitions. No bloat, no accounts — just open and work.
 
 `JavaScript` `HTML` `CSS`
 
 🔗 [Live Demo](https://focusxbyharuto.netlify.app/) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/harshwardhan1507/12-days-12-projects/tree/master/focusX)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📅 12 Days · 12 Projects
 **A personal discipline challenge**
-
-One complete, deployed project every single day for 12 days — using only HTML, CSS, and vanilla JavaScript. No frameworks, no shortcuts. Pure fundamentals, pure consistency.
+One complete, deployed project every single day for 12 days — using only HTML, CSS, and vanilla JavaScript. No frameworks, no shortcuts. Pure fundamentals, pure consistency. This is where the reps were put in.
 
 `JavaScript` `HTML` `CSS`
 
 📂 [Source Code](https://github.com/harshwardhan1507/12-days-12-projects)
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
