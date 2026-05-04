@@ -2,22 +2,36 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FBE&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Harsh+Wardhan+%F0%9F%91%8B;Full-Stack+%26+AI+Developer+%E2%9A%A1;Hackathon+Builder+%C2%B7+Real+Shipper+%F0%9F%9A%80;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
-
-<br/>
-
-### `< Full-Stack Developer · AI Systems Builder · 1x Hackathon Finisher />`
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D9FF?style=for-the-badge)](https://harshwardhanportfolio.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-wardhan-singh-cse)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshwardhansingh1507@gmail.com)
-
 </div>
+
+<!-- Hero Section: Text Left | GIF Right -->
+<table>
+<tr>
+<td valign="middle" width="60%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=false&vCenter=true&width=650&lines=Hey+there%2C+I'm+Harsh+Wardhan+%F0%9F%91%8B;Full-Stack+%26+AI+Developer+%E2%9A%A1;Hackathon+Builder+%C2%B7+Real+Shipper+%F0%9F%9A%80;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
+
+<br/><br/>
+
+### `< Full-Stack Developer · AI Systems Builder · 2x Hackathon Finisher />`
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-7B2FBE?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=0D0620)](https://harshwardhanportfolio.vercel.app/)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D0620)](https://linkedin.com/in/harsh-wardhan-singh-cse)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Say_Hello-7B2FBE?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0D0620)](mailto:harshwardhansingh1507@gmail.com)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-7B2FBE?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D0620)](https://github.com/harshwardhan1507)
+</td>
+<td valign="middle" width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="380"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
