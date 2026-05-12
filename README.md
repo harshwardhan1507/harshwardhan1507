@@ -110,7 +110,7 @@ Not just an event app — a full campus operating system built for Indian colleg
 
 `Next.js` `TypeScript` `Supabase` `Firebase` `Tailwind`
 
-📂 [Source Code](https://github.com/harshwardhan1507/Vertex)
+📂 [Source Code](https://github.com/harshwardhan1507/vertex-showcase)
 
 </td>
 <td width="50%">
@@ -185,7 +185,7 @@ One complete, deployed project every single day for 12 days — using only HTML,
 ## 📈 What I'm Grinding Right Now
 
 ```
-React / Next.js       ████████████░░░░   75%  →  Building production apps
+React / Next.js       ██████████░░░░░░   75%  →  Building production apps
 DSA in Java           ████████░░░░░░░░   50%  →  Cracking placement prep
 Backend (Node.js)     ██████░░░░░░░░░░   40%  →  REST APIs & auth flows
 System Design         ████░░░░░░░░░░░░   25%  →  Early but intentional
