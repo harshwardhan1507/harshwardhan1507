@@ -170,13 +170,10 @@ One complete, deployed project every single day for 12 days — using only HTML,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshwardhan1507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshwardhan1507&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="170"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=harshwardhan1507&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" width="60%"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshwardhan1507&theme=tokyonight" />
+</p>
 
 </div>
 
