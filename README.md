@@ -108,7 +108,7 @@ const harsh: Developer = {
 **Campus Operating System · In Development**
 Not just an event app — a full campus operating system built for Indian colleges. Handles event discovery, QR attendance, auto-generated certificates, OD letters, document verification, and a real-time participation score. 10 feature modules. Production architecture. Built to replace WhatsApp groups forever.
 
-`Next.js` `TypeScript` `Supabase` `Firebase` `Tailwind`
+`Next.js` `TypeScript` `Supabase` `Firebase` `Tailwind` `Capacitor`
 
 📂 [Source Code](https://github.com/harshwardhan1507/vertex-showcase)
 
