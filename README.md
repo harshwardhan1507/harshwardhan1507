@@ -96,75 +96,117 @@ const harsh: Developer = {
 </div>
 
 ---
-
 ## 🚀 Things I've Shipped
-> These aren't side quests. These are real products, live on the internet, used by real people.
+> Not side quests. Real products, live on the internet, used by real people.
 
 <table>
 <tr>
-<td width="50%">
 
-### 🏛️ Vertex
-**Campus Operating System · In Development**
-Not just an event app — a full campus operating system built for Indian colleges. Handles event discovery, QR attendance, auto-generated certificates, OD letters, document verification, and a real-time participation score. 10 feature modules. Production architecture. Built to replace WhatsApp groups forever.
+<td width="50%" valign="top">
+<h3>🏛️ Vertex</h3>
+<img src="https://img.shields.io/badge/Status-In%20Development-7F77DD?style=flat-square&labelColor=1a1a2e"/>
+<br/><br/>
+Not just an event app — a full campus operating system for Indian colleges. QR attendance, auto-generated certificates, OD letters, document verification, real-time participation score. 10 modules. Built to replace WhatsApp groups forever.
+<br/><br/>
 
-`Next.js` `TypeScript` `Supabase` `Firebase` `Tailwind` `Capacitor`
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+<br/><br/>
 
 📂 [Source Code](https://github.com/harshwardhan1507/vertex-showcase)
-
 </td>
-<td width="50%">
 
-### 🧠 MemoryOS
-**36-hour hackathon build · Full-stack AI app**
-An AI-powered personal second brain that captures, categorizes, and resurfaces your memories across 7 semantic dimensions. Built end-to-end in 36 hours — complete auth, vector database integration, real-time UI, and a live custom domain.
+<td width="50%" valign="top">
+<h3>🧠 MemoryOS</h3>
+<img src="https://img.shields.io/badge/36--hr%20Hackathon%20Build-F0997B?style=flat-square&labelColor=1a1a2e"/>
+<br/><br/>
+An AI-powered second brain that captures, categorizes, and resurfaces memories across 7 semantic dimensions. Built end-to-end in 36 hours — full auth, vector DB, real-time UI, live domain.
+<br/><br/>
 
-`React` `TypeScript` `Supabase` `Firebase Auth` `Tailwind`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<br/><br/>
 
 🔗 [Live Demo](https://verge-eosin.vercel.app/) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/harshwardhan1507/verge)
-
 </td>
+
 </tr>
 <tr>
-<td width="50%">
 
-### 🎓 SRM CGPA Calculator
-**Built for my college · Used by my peers**
-A credit-weighted GPA tool built specifically for SRM University's grading system. Handles semester GPA, cumulative CGPA, and real-time calculation — with Firebase-backed persistence. Solved a real problem, shipped it, people use it.
+<td width="50%" valign="top">
+<h3>🎓 SRM CGPA Calculator</h3>
+<img src="https://img.shields.io/badge/Status-Live-3FCF8E?style=flat-square&labelColor=1a1a2e"/>
+<br/><br/>
+Credit-weighted GPA tool built specifically for SRM University's grading system. Semester GPA, cumulative CGPA, real-time calculation with Firebase-backed persistence. Solved a real problem, shipped it, people use it.
+<br/><br/>
 
-`JavaScript` `Firebase` `HTML` `CSS`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br/><br/>
 
 🔗 [Live Demo](https://srm-cgpa-calculator-by-haruto.vercel.app/) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/harshwardhan1507/SRM-cgpa-calculator)
-
 </td>
-<td width="50%">
 
-### ⏱ FocusX
-**Glassmorphism Pomodoro Timer**
+<td width="50%" valign="top">
+<h3>⏱️ FocusX</h3>
+<img src="https://img.shields.io/badge/Status-Live-3FCF8E?style=flat-square&labelColor=1a1a2e"/>
+<br/><br/>
 A focus timer that actually feels good to use. Dynamic backgrounds, adaptive text contrast, smooth state transitions. No bloat, no accounts — just open and work.
+<br/><br/>
 
-`JavaScript` `HTML` `CSS`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br/><br/>
 
 🔗 [Live Demo](https://focusxbyharuto.netlify.app/) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/harshwardhan1507/12-days-12-projects/tree/master/focusX)
-
 </td>
+
 </tr>
 <tr>
-<td width="50%">
 
-### 📅 12 Days · 12 Projects
-**A personal discipline challenge**
-One complete, deployed project every single day for 12 days — using only HTML, CSS, and vanilla JavaScript. No frameworks, no shortcuts. Pure fundamentals, pure consistency. This is where the reps were put in.
+<td width="50%" valign="top">
+<h3>📅 12 Days · 12 Projects</h3>
+<img src="https://img.shields.io/badge/Personal%20Challenge-FAC775?style=flat-square&labelColor=1a1a2e"/>
+<br/><br/>
+One complete, deployed project every single day for 12 days — only HTML, CSS, and vanilla JS. No frameworks, no shortcuts. Pure fundamentals, pure consistency. This is where the reps were put in.
+<br/><br/>
 
-`JavaScript` `HTML` `CSS`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br/><br/>
 
 📂 [Source Code](https://github.com/harshwardhan1507/12-days-12-projects)
-
 </td>
-<td width="50%"></td>
+
+<td width="50%" valign="top">
+<h3>✍️ WordWeave</h3>
+<img src="https://img.shields.io/badge/Live%20Event%20Tool-5DCAA5?style=flat-square&labelColor=1a1a2e"/>
+<br/><br/>
+A creative writing prompt generator built and deployed for a live competitive event by ThinkTech: STEM Orator's Society. 5 curated prompts, 2-minute SVG countdown — projected on-screen in real time for an entire auditorium. Not a demo. A tool people used under pressure.
+<br/><br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<br/><br/>
+
+🔗 [Live Demo](https://wordweavethinktech.vercel.app/) &nbsp;|&nbsp;📂 [Source Code](https://github.com/harshwardhan1507/wordweave)
+</td>
+
 </tr>
 </table>
----
 
 ## 📊 GitHub Stats
 
