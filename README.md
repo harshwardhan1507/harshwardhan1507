@@ -44,7 +44,7 @@ const harsh: Developer = {
   education   : "B.Tech Computer Science — SRM University (1st Year)",
   location    : "India 🇮🇳",
 
-  currentlyBuilding : "MemoryOS — an AI-powered personal second brain",
+  currentlyBuilding : "Vertex - a full campus operating system",
   learningRightNow  : ["React", "DSA in Java", "Backend Systems", "AI Integration"],
   careerGoal        : "Land a dev internship before my 2nd year ends",
 
