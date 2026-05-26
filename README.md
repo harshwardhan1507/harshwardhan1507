@@ -117,7 +117,7 @@ Not just an event app — a full campus operating system for Indian colleges. QR
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 <br/><br/>
 
-📂 [Source Code](https://github.com/harshwardhan1507/vertex-showcase)
+🔗 [Live Demo](https://vertexcampusos.vercel.app/) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/harshwardhan1507/vertex-showcase)
 </td>
 
 <td width="50%" valign="top">
