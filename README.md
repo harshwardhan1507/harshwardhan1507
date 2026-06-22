@@ -206,16 +206,24 @@ Official website for **ThinkTech**, SRM University Haryana's premier STEM speaki
 </td>
 <td width="50%" valign="top">
 
-### 📅 12 Days · 12 Projects
-<img src="https://img.shields.io/badge/Personal%20Challenge-FAC775?style=flat-square&labelColor=1a1a2e"/>
+### ☕ Java Knowledge Base
+<img src="https://img.shields.io/badge/Learning%20Vault-FAC775?style=flat-square&labelColor=1a1a2e"/>
 
-One complete, deployed project every day for 12 days — **zero frameworks, zero shortcuts.** Pure HTML, CSS, and vanilla JS. This is where the reps were put in.
+A structured Java learning repository combining **runnable IntelliJ code** with **Obsidian revision notes**. Built chapter-by-chapter from core syntax to OOP, collections, exceptions, file handling, generics, concurrency, and beyond.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 
-📂 [Source](https://github.com/harshwardhan1507/12-days-12-projects)
+📂 [Source](https://github.com/harshwardhan1507/java)
+
+**Highlights**
+- Organized chapter structure (`ch01` → `ch17`)
+- IntelliJ-ready Java examples
+- Obsidian knowledge vault for revision
+- Beginner → Advanced progression
+- DSA section planned with pattern notes and problem logs
+- Mini-projects alongside concept chapters
 
 </td>
 </tr>
