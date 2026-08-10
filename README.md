@@ -1,34 +1,17 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1A1A1A,100:1A1A1A&height=180&section=header&text=HARSH%20WARDHAN&fontSize=52&fontColor=FFFFFF&fontAlignY=45&desc=DEVELOPER%20/%20BUILDER%20/%20CSE%20%E2%80%94%20SRM%20UNIVERSITY&descAlignY=68&descSize=16&descColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="70%" valign="top">
-
 ### 01 / INTRO
 
 **Building real things. Learning systems from the ground up.**
 
 Second-year CSE student shipping production software, not tutorial clones — campus infrastructure, fintech-grade architecture, and dev tooling used by real people.
 
-</td>
-<td width="30%" valign="top" align="right">
+<p align="left">
+  <a href="https://harshwardhanportfolio.vercel.app/"><img src="https://cdn.simpleicons.org/safari/000000" width="14" height="14" /> Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://github.com/harshwardhan1507"><img src="https://cdn.simpleicons.org/github/000000" width="14" height="14" /> GitHub</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/harsh-wardhan-singh-cse/"><img src="https://cdn.simpleicons.org/linkedin/000000" width="14" height="14" /> LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:harshwardhansingh1507@gmail.com"><img src="https://cdn.simpleicons.org/gmail/000000" width="14" height="14" /> Email</a>
+</p>
 
-[↗ PORTFOLIO](https://harshwardhanportfolio.vercel.app/)
-[↗ LINKEDIN](YOUR_LINKEDIN_URL)
-[↗ GITHUB](https://github.com/harshwardhan1507)
-[↗ LEETCODE](https://leetcode.com/Haruto_Okura)
-
-</td>
-</tr>
-</table>
-
-<img src="https://img.shields.io/badge/-000000?style=flat-square&color=D9D9D9" height="3" width="100%"/>
+---
 
 ### 02 / ABOUT
 
@@ -41,115 +24,112 @@ const harsh = {
 };
 ```
 
-<img src="https://img.shields.io/badge/-000000?style=flat-square&color=D9D9D9" height="3" width="100%"/>
+---
 
 ### 03 / STACK
 
-<p>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" height="28"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF" height="28"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" height="28"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" height="28"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" height="28"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" height="28"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" height="28"/>
-<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" height="28"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FFFFFF" height="28"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" height="28"/>
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFFFFF" height="28"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" height="28"/>
-</p>
+#### Languages
+<img src="https://cdn.simpleicons.org/openjdk/000000" width="14" height="14" /> Java &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/typescript/000000" width="14" height="14" /> TypeScript &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/javascript/000000" width="14" height="14" /> JavaScript &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/python/000000" width="14" height="14" /> Python
 
-<img src="https://img.shields.io/badge/-000000?style=flat-square&color=D9D9D9" height="3" width="100%"/>
+#### Frontend
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="14" height="14" /> Next.js &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/react/000000" width="14" height="14" /> React &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/tailwindcss/000000" width="14" height="14" /> Tailwind &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/greensock/000000" width="14" height="14" /> GSAP &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/framer/000000" width="14" height="14" /> Framer Motion
+
+#### Backend / Data
+<img src="https://cdn.simpleicons.org/nodedotjs/000000" width="14" height="14" /> Node.js &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/supabase/000000" width="14" height="14" /> Supabase &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/postgresql/000000" width="14" height="14" /> PostgreSQL &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/firebase/000000" width="14" height="14" /> Firebase &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/drizzle/000000" width="14" height="14" /> Drizzle ORM
+
+#### Tools
+<img src="https://cdn.simpleicons.org/git/000000" width="14" height="14" /> Git &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/github/000000" width="14" height="14" /> GitHub &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/vercel/000000" width="14" height="14" /> Vercel &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/intellijidea/000000" width="14" height="14" /> IntelliJ
+
+---
 
 ### 04 / SELECTED BUILDS
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### <img src="https://cdn.simpleicons.org/university/000000" width="18" height="18" /> [VERTEX ↗](https://vertexcampusos.vercel.app/)
+<a href="https://vertexcampusos.vercel.app/">
+  <img src="./assets/projects/vertex.webp" alt="Vertex Campus OS" width="100%" />
+</a>
 
-**[VERTEX ↗](https://vertexcampusos.vercel.app/)**
 Campus operating system for Indian colleges — 10 modules, 5 user roles, real deployment.
 
-<sub>`Next.js` `TypeScript` `Supabase` `Firebase` `Capacitor`</sub>
+`Next.js` `TypeScript` `Supabase` `Firebase` `Capacitor`
 
-</td>
-<td width="50%" valign="top">
+<br />
 
-**[SPLITZY ↗](https://github.com/harshwardhan1507)**
+#### <img src="https://cdn.simpleicons.org/wallet/000000" width="18" height="18" /> [SPLITZY ↗](https://harshwardhanportfolio.vercel.app/projects/splitzy)
+<a href="https://harshwardhanportfolio.vercel.app/projects/splitzy">
+  <img src="./assets/projects/splitzy.webp" alt="Splitzy" width="100%" />
+</a>
+
 UPI-native expense-splitting PWA. CQRS-lite event sourcing, paise-precision money handling, 5-person team.
 
-<sub>`Next.js 15` `Supabase` `Drizzle ORM` `PowerSync`</sub>
+`Next.js 15` `Supabase` `Drizzle ORM` `PowerSync`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br />
 
-**[THUNDERSTORM ↗](https://github.com/harshwardhan1507)**
+#### <img src="https://cdn.simpleicons.org/code/000000" width="18" height="18" /> [THUNDERSTORM ↗](https://github.com/harshwardhan1507/Thunderstorm)
+<a href="https://github.com/harshwardhan1507/Thunderstorm">
+  <img src="./assets/projects/thunderstorm.webp" alt="Thunderstorm" width="100%" />
+</a>
+
 Algorithm visualizer with a generator-based step architecture for true step-by-step execution.
 
-<sub>`Next.js` `Zustand` `GSAP` `Framer Motion`</sub>
+`Next.js` `Zustand` `GSAP` `Framer Motion`
 
-</td>
-<td width="50%" valign="top">
+<br />
 
-**[TECHSPACE ↗](https://github.com/harshwardhan1507/techspace)**
+#### <img src="https://cdn.simpleicons.org/lab/000000" width="18" height="18" /> [TECHSPACE ↗](https://github.com/harshwardhan1507/techspace)
+<a href="https://github.com/harshwardhan1507/techspace">
+  <img src="./assets/projects/techspace.webp" alt="TechSpace" width="100%" />
+</a>
+
 Neo-brutalist website for SRM's student innovation lab, with GSAP scroll-pinned storytelling.
 
-<sub>`Next.js` `GSAP` `TypeScript` `Tailwind`</sub>
+`Next.js` `GSAP` `TypeScript` `Tailwind`
 
-</td>
-</tr>
-</table>
+<br />
 
-<sub>[→ VIEW ALL PROJECTS](https://github.com/harshwardhan1507?tab=repositories)</sub>
+[→ VIEW ALL PROJECTS](https://github.com/harshwardhan1507?tab=repositories)
 
-<img src="https://img.shields.io/badge/-000000?style=flat-square&color=D9D9D9" height="3" width="100%"/>
+---
 
 ### 05 / JAVA
 
-**[JAVA KNOWLEDGE VAULT ↗](https://github.com/harshwardhan1507/java)**
+#### <img src="https://cdn.simpleicons.org/openjdk/000000" width="18" height="18" /> [JAVA KNOWLEDGE VAULT ↗](https://github.com/harshwardhan1507/Java-Knowledge-Base)
+<a href="https://github.com/harshwardhan1507/Java-Knowledge-Base">
+  <img src="./assets/projects/javaknowledgebase.webp" alt="Java Knowledge Base" width="100%" />
+</a>
+
 Runnable IntelliJ code + Obsidian notes covering Java from fundamentals to advanced concepts.
 
-<sub>`ch01` → `ch17`</sub>
+`ch01` → `ch17`
 
-<img src="https://img.shields.io/badge/-000000?style=flat-square&color=D9D9D9" height="3" width="100%"/>
+---
 
 ### 06 / CURRENTLY
 
 | | |
 |---|---|
-| **BUILDING** | Vertex, Splitzy |
-| **LEARNING** | DSA · Backend · System Design |
-| **LOOKING FOR** | Dev Internship |
+| <img src="https://cdn.simpleicons.org/hammer/000000" width="14" height="14" /> **BUILDING** | Vertex, Splitzy |
+| <img src="https://cdn.simpleicons.org/book/000000" width="14" height="14" /> **LEARNING** | DSA · Backend · System Design |
+| <img src="https://cdn.simpleicons.org/search/000000" width="14" height="14" /> **LOOKING FOR** | Dev Internship |
 
-<img src="https://img.shields.io/badge/-000000?style=flat-square&color=D9D9D9" height="3" width="100%"/>
+---
 
 ### 07 / PRINCIPLE
 
 > **Build real things. Not tutorial clones.**
 
-<img src="https://img.shields.io/badge/-000000?style=flat-square&color=D9D9D9" height="3" width="100%"/>
+---
 
 ### 08 / COMMUNITY
 
-<p align="left">
-<img src="https://api.vaunt.dev/v1/github/entities/harshwardhan1507/followers?limit=24&random=true" alt="GitHub followers"/>
+**People who follow the work**
+
+[![GitHub followers](https://github-followers-avatars.vercel.app/api/followers?username=harshwardhan1507&count=12)](https://github.com/harshwardhan1507?tab=followers)
+
+---
+
+<p align="center">
+  <b>Harsh Wardhan · Haruto</b><br/>
+  <a href="https://harshwardhanportfolio.vercel.app/">Portfolio</a> · <a href="https://github.com/harshwardhan1507">GitHub</a> · <a href="https://www.linkedin.com/in/harsh-wardhan-singh-cse/">LinkedIn</a>
 </p>
-
-<p>
-<img src="https://img.shields.io/github/followers/harshwardhan1507?label=FOLLOWERS&style=for-the-badge&color=1A1A1A&labelColor=000000" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/harshwardhan1507?affiliations=OWNER&label=STARS&style=for-the-badge&color=1A1A1A&labelColor=000000" alt="GitHub stars"/>
-</p>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1A1A1A,100:1A1A1A&height=90&section=footer" width="100%"/>
-<sub><b>© 2026 HARSH WARDHAN</b></sub>
-</div>
