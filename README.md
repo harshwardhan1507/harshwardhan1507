@@ -1,8 +1,8 @@
-<img src="./assets/banner-wide.jpg" width="100%" alt="banner" />
+<img src="https://raw.githubusercontent.com/harshwardhan1507/harshwardhan1507/main/assets/banner.svg" width="100%" alt="Harsh Wardhan banner" />
 
 <br/>
 
-<img src="./assets/pfp.jpg" width="70" height="70" align="left" />
+<img src="https://avatars.githubusercontent.com/u/212495741?v=4" width="70" height="70" align="left" alt="Harsh Wardhan" />
 
 ### Harsh Wardhan · Haruto
 CSE student at SRM University, Delhi-NCR · Technical Lead @ ThinkTech STEM Orators Society · Mentor @ Techspace
