@@ -17,7 +17,7 @@ CSE student at SRM University, Delhi-NCR
 
 <br/><br/>
 
-I'm second-year, building toward backend & systems engineering — the kind of work that starts with a REST API and ends up caring about consistency, queues, and why your DB connection pool is on fire. Outside of code I run the technical side of ThinkTech, where I get to build things for other people's ideas too, not just my own. Right now I'm deep in DSA and system design, chasing a dev internship before third year.
+I'm in second-year, building toward backend & systems engineering — the kind of work that starts with a REST API and ends up caring about consistency, queues, and why your DB connection pool is on fire. Outside of code I run the technical side of ThinkTech and Techspace, where I get to build things for other people's ideas too, not just my own. Right now I'm deep in DSA and backend concept like spring boot and go, chasing a dev internship before third year.
 
 <p>
   <a href="https://harshwardhanportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
@@ -43,11 +43,13 @@ I'm second-year, building toward backend & systems engineering — the kind of w
 <a href="https://github.com/harshwardhan1507/Java-Knowledge-Base">
 </a>
 
-A structured, from-scratch walkthrough of Java — `ch01` through `ch17`, each chapter a runnable IntelliJ module paired with Obsidian notes explaining the *why*, not just the syntax. Starts at fundamentals (variables, control flow, OOP basics) and builds up to advanced territory like collections, multithreading, and generics. Built as a reference I keep coming back to, and open for anyone else learning Java the same way — one concept fully understood before moving to the next.
+A structured, from-scratch walkthrough of Java — `ch01` through `ch17`, each chapter a runnable IntelliJ module paired with Obsidian notes explaining the *why*, not just the syntax. Starts at fundamentals (variables, control flow, OOP basics) and builds up to advanced territory like collections, multithreading, and generics. Built as a reference I keep coming back to, and open for anyone else learning Java the same way — one concept fully understood before moving to the next. 
+
+If interested do contribute to it . Planning to make an online platform for this , if liked it please star the repo .
 
 ---
 
-**Now:** Learning DSA & System Design · Leading tech at ThinkTech · Open to internships
+**Now:** Learning DSA & Backend  · Leading tech at ThinkTech & Techspace· Open to internships
 
 > Build real things. Not tutorial clones.
 
