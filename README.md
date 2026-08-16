@@ -2,10 +2,18 @@
 
 <br/>
 
-<img src="./assets/pfp.jpg" width="70" height="70" align="left" alt="Harsh Wardhan" />
+<img src="./assets/pfp.jpg" width="80" height="80" align="left" alt="Harsh Wardhan" />
 
-### Harsh Wardhan · Haruto
-CSE student at SRM University, Delhi-NCR · Technical Lead @ ThinkTech STEM Orators Society · Mentor @ Techspace
+### Harsh Wardhan 
+
+<br/><br/>
+CSE student at SRM University, Delhi-NCR 
+
+
+· Technical Lead @ ThinkTech STEM Orators Society 
+
+
+· Mentor @ Techspace
 
 <br/><br/>
 
@@ -33,7 +41,6 @@ I'm second-year, building toward backend & systems engineering — the kind of w
 #### [Java Knowledge Base ↗](https://github.com/harshwardhan1507/Java-Knowledge-Base)
 
 <a href="https://github.com/harshwardhan1507/Java-Knowledge-Base">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshwardhan1507&repo=Java-Knowledge-Base&theme=dark&hide_border=true" />
 </a>
 
 A structured, from-scratch walkthrough of Java — `ch01` through `ch17`, each chapter a runnable IntelliJ module paired with Obsidian notes explaining the *why*, not just the syntax. Starts at fundamentals (variables, control flow, OOP basics) and builds up to advanced territory like collections, multithreading, and generics. Built as a reference I keep coming back to, and open for anyone else learning Java the same way — one concept fully understood before moving to the next.
