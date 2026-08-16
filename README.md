@@ -5,7 +5,7 @@
 <img src="./assets/pfp.jpg" width="70" height="70" align="left" />
 
 ### Harsh Wardhan · Haruto
-CSE student at SRM University, Delhi-NCR · Technical Lead @ ThinkTech STEM Orators Society
+CSE student at SRM University, Delhi-NCR · Technical Lead @ ThinkTech STEM Orators Society · Mentor @ Techspace
 
 <br/><br/>
 
