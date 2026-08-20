@@ -53,4 +53,4 @@ If interested do contribute to it . Planning to make an online platform for this
 
 > Build real things. Not tutorial clones.
 
-<p align="center"><sub><a href="https://harshwardhanportfolio.vercel.app/">Portfolio</a> · <a href="https://github.com/harshwardhan1507">GitHub</a> · <a href="https://www.linkedin.com/in/harsh-wardhan-singh-cse/">LinkedIn</a></sub></p>
+<p align="center"><sub><a href="https://harshwardhanportfolio.vercel.app/">Portfolio</a> ·  <a href="https://www.linkedin.com/in/harsh-wardhan-singh-cse/">LinkedIn</a></sub></p>
