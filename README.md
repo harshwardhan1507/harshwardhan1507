@@ -10,10 +10,10 @@
 CSE student at SRM University, Delhi-NCR 
 
 
-· Technical Lead @ ThinkTech STEM Orators Society 
+· Technical & Innovation Lead @ ThinkTech STEM Orators Society 
 
 
-· Mentor @ Techspace
+· Technical & Innovation Lead @ Techspace
 
 <br/><br/>
 
