@@ -26,6 +26,12 @@ I'm in second-year, building toward backend & systems engineering — the kind o
   <a href="mailto:harshwardhansingh1507@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p>
+  <a href="https://harshwardhanportfolio.vercel.app/">
+    <img src="./assets/card.gif" width="520" alt="Harsh Wardhan Portfolio" />
+  </a>
+</p>
+
 ---
 
 **Stack**
